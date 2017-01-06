@@ -50,7 +50,7 @@ class App extends Component {
           {letters}
         </div>
       </main>
-      <footer>It's like hangman, but, um... backwards or something.</footer>
+      <footer>Created with &hearts; at The Iron Yard.</footer>
     </div>
   }
 }
